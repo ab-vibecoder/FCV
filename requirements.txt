@@ -257,7 +257,6 @@ sentence-transformers==3.4.1
 sentencepiece==0.2.0
 seqeval==1.2.2
 shellingham==1.5.4
-shiboken6==6.7.2
 shortuuid==1.0.13
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smart-open @ file:///C:/ci_311/smart_open_1676439339434/work
