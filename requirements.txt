@@ -3,7 +3,6 @@ aiohttp==3.11.13
 aiosignal==1.3.2
 altair==5.5.0
 amqp==5.3.1
-annotated-types @ file:///C:/b/abs_0dmaoyhhj3/croot/annotated-types_1709542968311/work
 anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1736174388474/work
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1733311059102/work
 argon2-cffi-bindings @ file:///D:/bld/argon2-cffi-bindings_1666850767990/work
