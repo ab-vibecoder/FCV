@@ -20,6 +20,8 @@ CHAT_MODEL     = "gpt-4.1-mini-2025-04-14"
 LOG_FILE       = os.path.join(BASE_FOLDER, "old_query.log")
 
 # ─── Logging ─────────────────────────────────────────────────────────────
+import os
+os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
